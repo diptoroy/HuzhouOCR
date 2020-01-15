@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Huzhou OCR</string>
+    <string name="loginBtn">LOGIN</string>
+    <string name="registerBtn">REGISTER</string>
+    <string name="Or">or Login with</string>
+    <string name="OrReg">or Register with</string>
+    <string name="sendBtn">SEND</string>
+    <string name="phnNumber">Phone Number</string>
+    <string name="veriCode">Verification Code</string>
+    <string name="wechat">Wechat</string>
+    <string name="qq">QQ</string>
+</resources>
