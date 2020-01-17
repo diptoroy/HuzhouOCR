@@ -9,4 +9,6 @@
     <string name="veriCode">Verification Code</string>
     <string name="wechat">Wechat</string>
     <string name="qq">QQ</string>
+    <string name="texthint">Result here</string>
+    <string name="selectText">Select your image</string>
 </resources>
